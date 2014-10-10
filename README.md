@@ -1,6 +1,7 @@
 # semi-supervised-multinomial-naive-bayes
 
-Semi-supervised Naive Bayes Classifier with smoothing.
+- Semi-supervised Naive Bayes Classifier with smoothing.
+- Compatible with Clojure and Leiningen
 
 # Reference
 
