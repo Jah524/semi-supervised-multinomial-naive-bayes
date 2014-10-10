@@ -1,14 +1,19 @@
 # semi-supervised-multinomial-naive-bayes
 
-A Clojure library designed to ... well, that part is up to you.
+Semi-supervised Naive Bayes Classifier with smoothing
 
-## Usage
+# Reference
 
-FIXME
+J. Su, J.S. Shirab,  and S. Matwin,  Large Scale Text Classification using Semisupervised Multinomial Naive Bayes.  ;In Proceedings of ICML. 2011, 97-104.
 
-## License
+# How to use
+
+See ***test/***
+
+# License
 
 Copyright © 2014 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
